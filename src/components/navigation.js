@@ -3,7 +3,7 @@ import React from "react";
 
 // when a tab is clicked it takes you to the page needed.
 function Navigation(props) {
-  const tabs = ["About", "Portfolio", "Contact", "Resume"];
+  const tabs = ["About", "Portfolio", "Resume"];
   return (
     <div className="tabs is-centered">
       <ul className="nav nav-tabs">

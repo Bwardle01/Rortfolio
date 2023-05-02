@@ -1,7 +1,7 @@
 body {
   font-family: Work Sans;
   text-align: center;
-  background-color: rgb(96, 154, 204);
+  background-color: rgb(144,152,125);
   color:white
 }
 
@@ -9,7 +9,7 @@ body {
   text-align: center;
   display: block;
   width: 100%;
-  background-color: rgb(96, 154, 204);
+  background-color: rgb(144,152,125);
   
 }
 
@@ -31,17 +31,34 @@ main {
   margin-right: 30em;
 }
 
-.my-pic {
-	clip-path: circle();
-  width: 250px;
+.me-pic{
+  clip-path: circle();
+  width: 600px;
+  height: auto;
 }
 
 .label {
   text-align: left;
 }
 
+.l2{
+  color:white;
+
+}
+.link0{
+  color: orange;
+}
+.link1{
+  color:orange;
+}
+.link2{
+  color:orange;
+}
+
+
 footer.footer {
-  background-color: lightslategray ;
+  background-color:  rgb(85, 92, 70);
+  
 }
 
 
@@ -55,3 +72,4 @@ footer.footer {
       margin-right: 2em;
     }
 }
+

@@ -1,7 +1,7 @@
 // import all things needed for app to use.
 import React, { useState } from 'react';
 import Navigation from "./navigation";
-// import About from "./about";
+import About from "./about";
 // import Contact from "./contact";
 // import Portfolio from "./portfolio";
 // import Resume from "./resume";
@@ -12,8 +12,8 @@ function Header() {
     // The renderPage method uses a switch statement to switch to the page needed.
     const renderPage = () => {
       switch (currentPage) {
-        // case "About":
-        //   return <About />;
+         case "About":
+           return <About />;
         // case "Portfolio":
         //   return <Portfolio />;
         // case "Contact":

@@ -32,7 +32,7 @@ main {
 }
 
 .me-pic{
-  clip-path: circle();
+  clip-path: ellipse();
   width: 600px;
   height: auto;
 }

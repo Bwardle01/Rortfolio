@@ -12,15 +12,15 @@ function Header() {
     // The renderPage method uses a switch statement to switch to the page needed.
     const renderPage = () => {
       switch (currentPage) {
-         case "About":
+         case "About me":
            return <About />;
         case "Portfolio":
           return <Portfolio />;
         case "Resume":
           return <Resume />;
   
-        // default:
-        //   return <About />;
+        default:
+          return <About />;
       }
     };
 

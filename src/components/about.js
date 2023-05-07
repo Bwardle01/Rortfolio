@@ -6,10 +6,10 @@ function About(){
       <p className="content is-medium">Up and coming Developer</p>
       <img className="me-pic" src='./imgs/me.JPEG' alt="Bronson Wardle"/>
       <p className="content mt-5">
-        Put stuff about what i do here.
+      Hey, I'm Bronson, a software developer in training with a thirst for adventure and a love for fitness, golf, photography, coffee, and good reads. Let's create something awesome together.
       </p>
       <p className="content">
-      Description about who i am goes here.
+      
       </p>
     </div>
   );

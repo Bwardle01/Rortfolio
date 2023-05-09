@@ -2,6 +2,7 @@ import React from "react";
 import Project from './project';
 // import all pics as vars to show on screen. Put in curly brakets. 
 
+
 const projects = [
   {
     id: 0,

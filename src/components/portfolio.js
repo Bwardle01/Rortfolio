@@ -1,7 +1,11 @@
 import React from "react";
 import Project from './project';
 // import all pics as vars to show on screen. Put in curly brakets. 
-
+import movie from "../imgs/screenshot-moviemania.png";
+import cats from "../imgs/cats-off-to-ya.png";
+import employee from "../imgs/employee.png"
+import first from '../imgs/firstproject.png';
+import workday from '../imgs/workday.png';
 
 const projects = [
   {
@@ -9,7 +13,7 @@ const projects = [
     title: "Movie-Mania",
     languages: "HTML, CSS, JavaScript.",
     packages: "API's used for this project: WatchMode: https://api.watchmode.com/,  OMDb: https://www.omdbapi.com/",
-    image: "/imgs/screenshot-moviemania.png",
+    image: movie,
     description: "This project allows a user to pick a random movie to watch by genre",
     repo: "https://github.com/mia2380/Sneak-Attack-Project-1",
     live: "https://mia2380.github.io/Sneak-Attack-Project-1/",
@@ -29,7 +33,7 @@ const projects = [
     title: "Cats off to ya",
     languages: "Javascript, Handlebars.",
     packages: "mysql12, sequilize, multer, gsap, express, dotenv, datauri, cloudinary, body-parser, express-handlebars",
-    image: "/imgs/cats-off-to-ya.png",
+    image: cats,
     description: "This project is an app where users can uploaded their pictures of their pets and rate other peoples pets. In order to use the app you will need to create an account and login. You can view/uplaod pictures you in the profile tab as well as log out.",
     repo: "https://github.com/heyitsthatgirl/HoN-Pet-Edition",
     live: "https://hot-or-not-pets-edition.herokuapp.com/homepage",
@@ -39,7 +43,7 @@ const projects = [
     title: "Work day scheduler",
     languages: "HTML, CSS, Javascript.",
     packages: "None",
-    image: "/imgs/workday.png",
+    image: workday,
     description: "With this project you will be able to create tasks through out the day. All data submitted with be updated and saved with real time",
     repo: "https://github.com/Bwardle01/WorkDayScheduler",
     live: "https://bwardle01.github.io/WorkDayScheduler/",
@@ -49,7 +53,7 @@ const projects = [
     title: "My first portfolio",
     languages: "HTML, CSS.",
     packages: "NONE",
-    image: "/imgs/firstproject.png",
+    image: first,
     description: "This was my first ever portfolio. This will demonstrate how far ive came with my app development skill",
     repo: "https://github.com/Bwardle01/Portfolio1",
     live: "https://bwardle01.github.io/Portfolio1/",
@@ -59,7 +63,7 @@ const projects = [
     title: "Employee tracker",
     languages: "Javascript.",
     packages: "MySQL, inquirer, MySQL12",
-    image: "/imgs/employee.png",
+    image: employee,
     description: "This project is an employee tracker through the terminal. This will allo wyou to show all departments, roles, and employess added to the DB. You can add and update any catagory. You can also update and add manager info.",
     repo: "https://github.com/Bwardle01/Employee-tracker-12",
     live: "Clone the repo to run the code. ",

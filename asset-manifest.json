@@ -1,15 +1,21 @@
 {
   "files": {
     "main.css": "/Rortfolio/static/css/main.0b2fc626.css",
-    "main.js": "/Rortfolio/static/js/main.a9f0bbaa.js",
+    "main.js": "/Rortfolio/static/js/main.00d52f49.js",
     "static/js/787.6dbc932f.chunk.js": "/Rortfolio/static/js/787.6dbc932f.chunk.js",
+    "static/media/me.JPEG": "/Rortfolio/static/media/me.ea4f71db135ea01cc8ca.JPEG",
+    "static/media/firstproject.png": "/Rortfolio/static/media/firstproject.3dba7b110edf1791792b.png",
+    "static/media/employee.png": "/Rortfolio/static/media/employee.0586750d11e10ec88ba6.png",
+    "static/media/cats-off-to-ya.png": "/Rortfolio/static/media/cats-off-to-ya.2887e0117d7a32f1e404.png",
+    "static/media/screenshot-moviemania.png": "/Rortfolio/static/media/screenshot-moviemania.76cddc97827974cb27c4.png",
+    "static/media/workday.png": "/Rortfolio/static/media/workday.5c554631d9ef6fbcf29f.png",
     "index.html": "/Rortfolio/index.html",
     "main.0b2fc626.css.map": "/Rortfolio/static/css/main.0b2fc626.css.map",
-    "main.a9f0bbaa.js.map": "/Rortfolio/static/js/main.a9f0bbaa.js.map",
+    "main.00d52f49.js.map": "/Rortfolio/static/js/main.00d52f49.js.map",
     "787.6dbc932f.chunk.js.map": "/Rortfolio/static/js/787.6dbc932f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b2fc626.css",
-    "static/js/main.a9f0bbaa.js"
+    "static/js/main.00d52f49.js"
   ]
 }

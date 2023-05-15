@@ -6,6 +6,7 @@ import cats from "../imgs/cats-off-to-ya.png";
 import employee from "../imgs/employee.png"
 import first from '../imgs/firstproject.png';
 import workday from '../imgs/workday.png';
+import clawsmic from '../imgs/clawsmic.png';
 
 const projects = [
   {
@@ -22,11 +23,11 @@ const projects = [
     id: 1,
     title: "Final group project goes here.",
     languages: "Javascript, CSS, HTML.",
-    packages: "React, React-scripts, React-router-dom, React-dom, Apollo-server, graphql, mongooseDB, Semantic-UI, Express, Axios, ",
-    image: "",
-    description: "",
+    packages: "React, React-scripts, React-router-dom, React-dom, Apollo-server, graphql, mongooseDB, Semantic-UI, Express, Axios, jwt-decode, bcrypt, jsonwebtoken ",
+    image: clawsmic,
+    description: "The Daily Clawsmic interacts with various NASA APIs to showcase a picture of the day, provide many Mars Rover (Curiosity) photos, and supplies articles and links for NASA-developed technologies, available for commercial and non-commerical use. There, you'll find information such as titles, summaries, categories, and patent information!",
     repo: "https://github.com/Catalystix/Clawesome-Crew",
-    live: "",
+    live: "https://cosmic-gallary.herokuapp.com/",
   },
   {
     id: 2,

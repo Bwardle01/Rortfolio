@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rortfolio/static/css/main.0b2fc626.css",
-    "main.js": "/Rortfolio/static/js/main.447aca8d.js",
+    "main.js": "/Rortfolio/static/js/main.41026b1c.js",
     "static/js/787.6dbc932f.chunk.js": "/Rortfolio/static/js/787.6dbc932f.chunk.js",
     "static/media/me.JPEG": "/Rortfolio/static/media/me.ea4f71db135ea01cc8ca.JPEG",
     "static/media/firstproject.png": "/Rortfolio/static/media/firstproject.3dba7b110edf1791792b.png",
@@ -9,15 +9,14 @@
     "static/media/cats-off-to-ya.png": "/Rortfolio/static/media/cats-off-to-ya.2887e0117d7a32f1e404.png",
     "static/media/screenshot-moviemania.png": "/Rortfolio/static/media/screenshot-moviemania.76cddc97827974cb27c4.png",
     "static/media/clawsmic.png": "/Rortfolio/static/media/clawsmic.e86b986631e21fa5f7d1.png",
-    "static/media/BronsonWresume.pdf": "/Rortfolio/static/media/BronsonWresume.0ae989da93ee89d228f1.pdf",
     "static/media/workday.png": "/Rortfolio/static/media/workday.5c554631d9ef6fbcf29f.png",
     "index.html": "/Rortfolio/index.html",
     "main.0b2fc626.css.map": "/Rortfolio/static/css/main.0b2fc626.css.map",
-    "main.447aca8d.js.map": "/Rortfolio/static/js/main.447aca8d.js.map",
+    "main.41026b1c.js.map": "/Rortfolio/static/js/main.41026b1c.js.map",
     "787.6dbc932f.chunk.js.map": "/Rortfolio/static/js/787.6dbc932f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b2fc626.css",
-    "static/js/main.447aca8d.js"
+    "static/js/main.41026b1c.js"
   ]
 }

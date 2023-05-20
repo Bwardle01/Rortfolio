@@ -1,16 +1,16 @@
 import React from "react";
-// import resume from "../imgs/BronsonWresume.pdf";
+import resume from "../imgs/resume.pdf";
 
 function Resume(){
   return(
     <div className='columns'>
       <div className='column'>
         <a className="button is-primary"
-        href={"no file here"} download>
+        href={resume} download>
           <span className="icon">
             <i className="fas fa-download"></i>
           </span>
-          <span>View My outdated Resume</span>
+          <span>Download my resume</span>
         </a>
       </div>
       <div className='column'>

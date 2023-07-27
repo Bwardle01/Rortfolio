@@ -16,15 +16,15 @@ function Resume(){
       <div className='column'>
         <p className="content is-medium">Experience</p>
         <ul>
-          <li>Browser based tech: HTML, CSS, Javascript, React.js</li>
+          <li>Browser based tech: HTML, CSS, Javascript, React.js, Python</li>
           <li>--</li>
-          <li>Frameworks: Bootstrap, Handlebars</li>
+          <li>Frameworks: Bootstrap, Handlebars, Jinja</li>
           <li>--</li>
           <li>Databases: MySQL, NoSQL, MongoDB</li>
           <li>--</li>
-          <li>Server side development: MERN stack (MongoDB, Express.js, Node.js)</li>
+          <li>Server side development: MERN stack (MongoDB, Express.js, Node.js), Flask</li>
           <li>--</li>
-          <li>Future developemt: Python, AWS, Java</li>
+          <li>Future developemt: AWS, Java</li>
           <li>--</li>
           <li>Git and Github repo management</li>
         </ul>
